@@ -1,0 +1,2 @@
+#!/bin/bas
+mv [[:upper:]]* /temp/u
